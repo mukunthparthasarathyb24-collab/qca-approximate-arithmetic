@@ -1,0 +1,5 @@
+circuit,cells,Sum_Ebath_eV_this_run,Sum_Ebath_eV_your_GUI_run
+FA,11,0.00919,0.00937
+FS,11,0.0103,0.00934
+FA/S,12,0.0129,0.0123
+4-bit RCA,64,0.0346,0.0436

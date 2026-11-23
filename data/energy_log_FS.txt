@@ -1,0 +1,41 @@
+Opening File:
+[K 0.0%[K 0.6%[K 1.2%[K 4.2%[K 4.4%[K14.8%File opened in 0.00 seconds
+design: 3 inputs, 2 outputs
+coherence_energy_options_dump:
+coherence_energy_options->T                         = 2.000000e+00 [K]
+coherence_energy_options->relaxation                = 1.000000e-15 [s]
+coherence_energy_options->time_step                 = 1.000000e-16 [s]
+coherence_energy_options->duration                  = 5.000000e-11 [s]
+coherence_energy_options->clock_high                = 9.800000e-22 [J]
+coherence_energy_options->clock_low                 = 3.800000e-23 [J]
+coherence_energy_options->clock_period              = 4.000000e-12 [s]
+coherence_energy_options->input_period              = 4.000000e-12 [s]
+coherence_energy_options->t_slope_ramp              = 1.000000e-12 [s]
+coherence_energy_options->radius_of_effect          = 8.000000e+01 [nm]
+coherence_energy_options->epsilonR                  = 1.290000e+01
+coherence_energy_options->layer_separation          = 1.150000e+01 [nm]
+coherence_energy_options->algorithm                 = 2
+coherence_energy_options->clock_type                = 3
+coherence_energy_options->randomize_cells           = TRUE
+coherence_energy_options->animate_simulation        = FALSE
+coherence_energy_options->zero_mode_act             = TRUE
+coherence_energy_options->display_cell_diss         = FALSE
+About to start the coherence vector energy simulation with 500000 samples
+3000 samples will be recorded for graphing.
+Coherence vector energy simulation:
+[K 0.0%Simulation found 3 inputs 2 outputs
+It took 4 iterations to converge the initial steady state polarization
+[K 0.0%[K 2.0%[K 4.0%[K 6.0%[K 8.0%[K10.0%[K12.0%[K14.0%[K16.0%[K18.0%[K20.0%[K22.0%[K24.0%[K26.0%[K28.0%[K30.0%[K32.0%[K34.0%[K36.0%[K38.0%[K40.0%[K42.0%[K44.0%[K46.0%[K48.0%[K50.0%[K52.0%[K54.0%[K56.0%[K58.0%[K60.0%[K62.0%[K64.0%[K66.0%[K68.0%[K70.0%[K72.0%[K74.0%[K76.0%[K78.0%[K80.0%[K82.0%[K84.0%[K86.0%[K88.0%[K90.0%[K92.0%[K94.0%[K96.0%[K98.0%
+********* Energy Dissipation in eV ********** 
+
+E_bath_total:	1.7996e-03	6.1171e-04	5.9303e-04	6.3298e-04	6.2285e-04	6.1199e-04	6.0356e-04	1.7986e-03	1.7996e-03	6.1171e-04	5.9303e-04	
+E_clk_total:	2.7317e-04	-3.6612e-04	-7.8769e-05	-3.2667e-04	-3.2669e-04	-7.9000e-05	-3.6622e-04	2.7328e-04	2.7317e-04	-3.6612e-04	-7.8769e-05	
+E_Error_total:	-1.7346e-04	 -8.7148e-05	 -6.0719e-05	 -6.5192e-05	 -6.3945e-05	 -3.8642e-05	 -8.3115e-05	 -1.9428e-04	 -1.7346e-04	 -8.7148e-05	 -6.0719e-05	 
+
+Total energy dissipation (Sum_Ebath): 1.03e-02 eV (Error: +/- -1.09e-03 eV)
+Average energy dissipation per cycle (Avg_Ebath): 9.34e-04 eV (Error: +/- -9.89e-05 eV)
+********************************************************
+Total simulation time: 1 s
+wrote 3000 samples x 5 traces
+
+All printed 

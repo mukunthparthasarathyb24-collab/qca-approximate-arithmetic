@@ -1,0 +1,100 @@
+images,alpha,adder,PSNR,SSIM
+moon+coins,0.2,"4-bit RCA, paper equations",18.55,0.4337
+moon+coins,0.2,"4-bit RCA, simulated layout",17.39,0.4309
+moon+coins,0.2,"8-bit hybrid, k=0",inf,1.0
+moon+coins,0.2,"8-bit hybrid, k=1",48.14,0.9926
+moon+coins,0.2,"8-bit hybrid, k=2",39.41,0.9705
+moon+coins,0.2,"8-bit hybrid, k=3",32.19,0.9115
+moon+coins,0.2,"8-bit hybrid, k=4",25.03,0.8004
+moon+coins,0.2,"8-bit hybrid, k=5",19.47,0.6405
+moon+coins,0.2,"8-bit hybrid, k=6",17.3,0.5422
+moon+coins,0.2,"8-bit hybrid, k=7",17.3,0.5422
+moon+coins,0.2,"8-bit hybrid, k=8",17.3,0.5422
+moon+coins,0.5,"4-bit RCA, paper equations",11.92,0.2037
+moon+coins,0.5,"4-bit RCA, simulated layout",9.7,0.1164
+moon+coins,0.5,"8-bit hybrid, k=0",inf,1.0
+moon+coins,0.5,"8-bit hybrid, k=1",48.15,0.9942
+moon+coins,0.5,"8-bit hybrid, k=2",39.44,0.9744
+moon+coins,0.5,"8-bit hybrid, k=3",32.59,0.9228
+moon+coins,0.5,"8-bit hybrid, k=4",24.97,0.772
+moon+coins,0.5,"8-bit hybrid, k=5",17.61,0.5778
+moon+coins,0.5,"8-bit hybrid, k=6",12.25,0.335
+moon+coins,0.5,"8-bit hybrid, k=7",9.68,0.1833
+moon+coins,0.5,"8-bit hybrid, k=8",9.68,0.1833
+moon+coins,0.8,"4-bit RCA, paper equations",20.31,0.5778
+moon+coins,0.8,"4-bit RCA, simulated layout",8.15,0.0934
+moon+coins,0.8,"8-bit hybrid, k=0",inf,1.0
+moon+coins,0.8,"8-bit hybrid, k=1",47.97,0.9952
+moon+coins,0.8,"8-bit hybrid, k=2",38.75,0.9752
+moon+coins,0.8,"8-bit hybrid, k=3",31.35,0.9077
+moon+coins,0.8,"8-bit hybrid, k=4",25.98,0.8191
+moon+coins,0.8,"8-bit hybrid, k=5",17.98,0.5517
+moon+coins,0.8,"8-bit hybrid, k=6",14.45,0.4461
+moon+coins,0.8,"8-bit hybrid, k=7",10.65,0.2733
+moon+coins,0.8,"8-bit hybrid, k=8",7.93,0.095
+brick+gravel,0.2,"4-bit RCA, paper equations",13.82,0.3695
+brick+gravel,0.2,"4-bit RCA, simulated layout",13.63,0.3654
+brick+gravel,0.2,"8-bit hybrid, k=0",inf,1.0
+brick+gravel,0.2,"8-bit hybrid, k=1",48.16,0.998
+brick+gravel,0.2,"8-bit hybrid, k=2",39.42,0.9908
+brick+gravel,0.2,"8-bit hybrid, k=3",32.23,0.9649
+brick+gravel,0.2,"8-bit hybrid, k=4",25.69,0.883
+brick+gravel,0.2,"8-bit hybrid, k=5",19.33,0.736
+brick+gravel,0.2,"8-bit hybrid, k=6",14.58,0.434
+brick+gravel,0.2,"8-bit hybrid, k=7",14.58,0.434
+brick+gravel,0.2,"8-bit hybrid, k=8",14.58,0.434
+brick+gravel,0.5,"4-bit RCA, paper equations",12.09,0.1977
+brick+gravel,0.5,"4-bit RCA, simulated layout",9.02,0.1444
+brick+gravel,0.5,"8-bit hybrid, k=0",inf,1.0
+brick+gravel,0.5,"8-bit hybrid, k=1",48.11,0.9992
+brick+gravel,0.5,"8-bit hybrid, k=2",39.4,0.9962
+brick+gravel,0.5,"8-bit hybrid, k=3",32.35,0.9853
+brick+gravel,0.5,"8-bit hybrid, k=4",25.22,0.9341
+brick+gravel,0.5,"8-bit hybrid, k=5",18.23,0.7635
+brick+gravel,0.5,"8-bit hybrid, k=6",14.29,0.6015
+brick+gravel,0.5,"8-bit hybrid, k=7",8.61,0.0943
+brick+gravel,0.5,"8-bit hybrid, k=8",8.61,0.0943
+brick+gravel,0.8,"4-bit RCA, paper equations",18.83,0.7535
+brick+gravel,0.8,"4-bit RCA, simulated layout",6.34,0.0313
+brick+gravel,0.8,"8-bit hybrid, k=0",inf,1.0
+brick+gravel,0.8,"8-bit hybrid, k=1",48.08,0.9995
+brick+gravel,0.8,"8-bit hybrid, k=2",39.13,0.9973
+brick+gravel,0.8,"8-bit hybrid, k=3",32.71,0.9908
+brick+gravel,0.8,"8-bit hybrid, k=4",24.8,0.9483
+brick+gravel,0.8,"8-bit hybrid, k=5",20.34,0.8864
+brick+gravel,0.8,"8-bit hybrid, k=6",15.14,0.6969
+brick+gravel,0.8,"8-bit hybrid, k=7",9.28,0.3484
+brick+gravel,0.8,"8-bit hybrid, k=8",6.38,0.0223
+gradient+blob,0.2,"4-bit RCA, paper equations",21.9,0.8731
+gradient+blob,0.2,"4-bit RCA, simulated layout",21.21,0.8591
+gradient+blob,0.2,"8-bit hybrid, k=0",inf,1.0
+gradient+blob,0.2,"8-bit hybrid, k=1",49.86,0.992
+gradient+blob,0.2,"8-bit hybrid, k=2",41.18,0.9715
+gradient+blob,0.2,"8-bit hybrid, k=3",35.03,0.9344
+gradient+blob,0.2,"8-bit hybrid, k=4",29.69,0.9091
+gradient+blob,0.2,"8-bit hybrid, k=5",25.38,0.8998
+gradient+blob,0.2,"8-bit hybrid, k=6",21.22,0.8961
+gradient+blob,0.2,"8-bit hybrid, k=7",21.22,0.8961
+gradient+blob,0.2,"8-bit hybrid, k=8",21.22,0.8961
+gradient+blob,0.5,"4-bit RCA, paper equations",15.02,0.7091
+gradient+blob,0.5,"4-bit RCA, simulated layout",13.45,0.6923
+gradient+blob,0.5,"8-bit hybrid, k=0",inf,1.0
+gradient+blob,0.5,"8-bit hybrid, k=1",51.41,0.9939
+gradient+blob,0.5,"8-bit hybrid, k=2",41.22,0.9671
+gradient+blob,0.5,"8-bit hybrid, k=3",34.36,0.9087
+gradient+blob,0.5,"8-bit hybrid, k=4",28.46,0.8306
+gradient+blob,0.5,"8-bit hybrid, k=5",23.07,0.7851
+gradient+blob,0.5,"8-bit hybrid, k=6",18.04,0.7537
+gradient+blob,0.5,"8-bit hybrid, k=7",13.44,0.711
+gradient+blob,0.5,"8-bit hybrid, k=8",13.44,0.711
+gradient+blob,0.8,"4-bit RCA, paper equations",19.91,0.6302
+gradient+blob,0.8,"4-bit RCA, simulated layout",12.15,0.5812
+gradient+blob,0.8,"8-bit hybrid, k=0",inf,1.0
+gradient+blob,0.8,"8-bit hybrid, k=1",48.36,0.9896
+gradient+blob,0.8,"8-bit hybrid, k=2",40.09,0.9556
+gradient+blob,0.8,"8-bit hybrid, k=3",33.5,0.8808
+gradient+blob,0.8,"8-bit hybrid, k=4",27.7,0.763
+gradient+blob,0.8,"8-bit hybrid, k=5",22.38,0.6401
+gradient+blob,0.8,"8-bit hybrid, k=6",18.04,0.5892
+gradient+blob,0.8,"8-bit hybrid, k=7",14.99,0.5745
+gradient+blob,0.8,"8-bit hybrid, k=8",12.0,0.556
